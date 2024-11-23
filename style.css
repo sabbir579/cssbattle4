@@ -1,0 +1,114 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all-aria{
+    height: 500px;
+    width: 700px;
+    background-color: black;
+    border: 5px solid lightgrey;
+}
+.bone-m{
+    
+
+}
+.bone-1{
+    height: 40px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+   position: relative;
+   left: 212px;
+   top:130px;
+   transform: rotate(-50deg);
+   
+}
+
+.haddi{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    position: relative;
+    top: 110px;
+    left: 240px;
+    transform: rotate(-50deg);
+}
+.bone-2{
+    height: 40px;
+    width: 50px;
+    background-color: white;
+    border-radius: 50%;
+   position: relative;
+   left: 220PX;
+   top: PX;
+   transform: rotate(-120deg);
+}
+.haddi-2{
+    height: 30px;
+    width: 30px;
+    background-color: white;
+    position: relative;
+    left: 250PX;
+    bottom: 50PX;
+    transform: rotate(-130deg);
+}
+.face-m{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-top: 90px;
+}
+.face{
+    height:100px;
+    width: 150px;
+    background-color: white;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.ey1{
+    height: 40px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+    transform: rotate(50deg);
+}
+
+.ey2{
+    height: 40px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+    transform: rotate(-50deg);
+
+}
+.theet-m{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+    bottom: 55px;
+}
+.theet-1{
+    height: 30px;
+    width: 20px;
+    background-color: white;
+}
+.haddi-m3{
+    position: relative;
+    bottom: 212px;
+    left: 95px;
+    transform: rotate(-100deg);
+}
+.haddi-m4{
+    position: relative;
+    bottom:335px;
+    left: 5px;
+    transform: rotate(-180deg);
+}
